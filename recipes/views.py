@@ -1,8 +1,9 @@
 from django.http import HttpResponse
 from django.shortcuts import render
 
+
 def home(request):
-    return HttpResponse(request, 'recipes/home.html')
+    return render(request, 'recipes/home.html', context={'name': 'Arthur',} status=404)
 
 
 def sobre(request):
