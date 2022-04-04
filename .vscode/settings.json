@@ -20,5 +20,6 @@
         "terminal.ansiRed":"#B21889",
         "terminal.ansiWhite":"#939599",
         "terminal.ansiYellow":"#438288"
-    }
+    },
+    "workbench.settings.useSplitJSON": true
 }
