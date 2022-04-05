@@ -21,5 +21,6 @@
         "terminal.ansiWhite":"#939599",
         "terminal.ansiYellow":"#438288"
     },
-    "workbench.settings.useSplitJSON": true
+    "workbench.settings.useSplitJSON": true,
+    "explorer.compactFolders": false
 }
