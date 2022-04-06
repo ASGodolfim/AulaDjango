@@ -6,7 +6,7 @@ from faker import Faker
 def rand_ratio():
     return randint(840, 900), randint(473, 573)
 
-fake = Faker ('pt_BR')
+fake = Faker('pt_BR')
 
 def make_recipe():
     return{
